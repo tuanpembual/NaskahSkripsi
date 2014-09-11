@@ -8,7 +8,6 @@ Semua dokumen yang ada dilisensikan
 Laporan tugas akhir tentang pengambangan Warung Aplikasi (WarSi)
 Tools untuk membantu mengatur perangkat lunak yang terpasang.<br>
 
-### [Live Demo](http://tuanpembual.github.io/public)
 ---
 Tangkapan Layar
 =========
